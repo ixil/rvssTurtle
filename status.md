@@ -1,13 +1,17 @@
 ---------------------------------------------------------------------
 STATUS - write down what you're doing so we're all on the same page
 ---------------------------------------------------------------------
-Oliver
+Oliver - SLAM/control
 
 ---------------------------------------------------------------------
-Doug
+Doug - SLAM
+
+1. trying to connect
 
 ---------------------------------------------------------------------
-Julien
+Julien - ros
+
+1. trying to connect
 
 ---------------------------------------------------------------------
 Ming - object recognition
@@ -15,7 +19,8 @@ Ming - object recognition
 ---------------------------------------------------------------------
 Kejie - object recognition
 
+1. trying to understand the tools we have been given
 ---------------------------------------------------------------------
-Cedric
+Cedric - localization/control
 
 ---------------------------------------------------------------------
