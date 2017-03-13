@@ -1,0 +1,7 @@
+# Train and Evaluation Script
+python ./src/objcls_train_val.py --help
+python ./src/objcls_train_val.py ./data/ ./models/debug/
+
+# Prediction Script
+python ./src/objcls_predict.py --help
+python ./src/objcls_predict.py ./models/BallCarTBear/ft_train_val/finetune_weights.CLS_ball-car-tbear.E_49-VACC_0.98.hdf5 ./data/validation/car/*

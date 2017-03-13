@@ -1,0 +1,10 @@
+<launch>
+<node pkg="rvss_workshop" type="state_machine.py" name="stateMachine"  output="screen">
+</node>  
+<node pkg="rvss_workshop" type="localisation.py" name="localization"  output="screen" launch-prefix="xterm -e">
+</node>  
+<node pkg="rvss_workshop" type="initialisation2.py" name="initialisation"  output="screen" launch-prefix="xterm -e">
+</node>  
+<node pkg="rvss_workshop" type="execution.py" name="execution"  output="screen" launch-prefix="xterm -e">
+</node>
+</launch>
