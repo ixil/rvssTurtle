@@ -1,7 +1,10 @@
 ---------------------------------------------------------------------
 STATUS - write down what you're doing so we're all on the same page
+
+1. Understand the libraries, environment, codes and packages
+2. 
 ---------------------------------------------------------------------
-Oliver - SLAM/control
+Oliver - state machine
 
 ---------------------------------------------------------------------
 Doug - SLAM
